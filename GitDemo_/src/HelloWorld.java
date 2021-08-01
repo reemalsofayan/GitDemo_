@@ -4,7 +4,7 @@ public class HelloWorld {
 	public HelloWorld() {
 	}
 
-	int vv = 0;
+	int vvff = 0;
 
 	public void display5() {
 	}
