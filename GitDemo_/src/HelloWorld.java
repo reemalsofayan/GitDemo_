@@ -1,5 +1,13 @@
 
 public class HelloWorld {
 
-String [] list= new String[5];
+	public HelloWorld() {
+	}
+
+	int vvff = 0;
+
+	public void display6() {}
+	public void display5() {
+	}
+
 }
