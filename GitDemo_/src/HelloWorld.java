@@ -5,6 +5,7 @@ String []ttt=new String[34];
 	public HelloWorld() {
 	}
 
+	int ggggg;
 	
 	int reem2 = 0;
 	int reem223 = 0;
