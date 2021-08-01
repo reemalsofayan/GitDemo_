@@ -2,6 +2,10 @@
 public class HelloWorld {
 
 String []ttt=new String[34];
+
+
+
+String []qqqqqqqq=new String[34];
 	public HelloWorld() {
 	}
 
