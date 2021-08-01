@@ -1,13 +1,5 @@
 
 public class HelloWorld {
 
-	public HelloWorld() {
-	}
-
-	int vvff = 0;
-
-	public void display6() {}
-	public void display5() {
-	}
-
+String []ttt=new String[34];
 }
