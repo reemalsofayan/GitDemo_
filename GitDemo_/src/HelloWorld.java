@@ -8,7 +8,7 @@ String []ttt=new String[34];
 String []qqqqqqqq=new String[34];
 	public HelloWorld() {
 	}
-
+	String []ReemCool=new String[34];
 	int ggggg;
 	String reem=new String("reem");
 	int reem2 = 0;
