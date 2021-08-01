@@ -1,9 +1,7 @@
 
 public class HelloWorld {
 
-<<<<<<< HEAD
 String []ttt=new String[34];
-=======
 	public HelloWorld() {
 	}
 
@@ -13,5 +11,4 @@ String []ttt=new String[34];
 	public void display5() {
 	}
 
->>>>>>> branch 'master' of https://github.com/reemalsofayan/GitDemo_.git
 }
