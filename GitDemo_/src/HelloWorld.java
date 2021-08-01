@@ -6,6 +6,7 @@ public class HelloWorld {
 
 	int vvff = 0;
 
+	public void display6() {}
 	public void display5() {
 	}
 
