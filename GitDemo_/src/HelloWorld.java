@@ -6,7 +6,7 @@ String []ttt=new String[34];
 	}
 
 	int ggggg;
-	
+	String reem=new String("reem");
 	int reem2 = 0;
 	int reem223 = 0;
 
